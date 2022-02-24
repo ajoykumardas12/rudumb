@@ -1,4 +1,4 @@
-setTimeout(launch_toast, 1000);
+setTimeout(launch_toast, 2000);
 
 function launch_toast() {
     var x = document.getElementById("toast")
